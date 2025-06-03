@@ -1,11 +1,11 @@
 /* Accept 5 Numbers From user as well as another Number and print How many times that numbers occures in this array.
 
-
 Input - 10 15 13 40 13 
       - 13
 Output- 2
 
 */
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
 #include<Stdio.h>
@@ -51,3 +51,18 @@ int main()
 
 	return 0;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
