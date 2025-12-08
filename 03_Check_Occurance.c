@@ -3,9 +3,11 @@
 
 Input - 10 15 13 40 13 
       - 13
+	  
 Output- 2
 
 */
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
 #include<Stdio.h>
@@ -25,6 +27,7 @@ void CheckOccurance(int Data[], int iSize, int iNo)
 
 	printf("Number occures %d times",iAns);
 }
+
 
 int main()
 {
@@ -48,6 +51,7 @@ int main()
    CheckOccurance(Arr,5, iValue);
 
 
-
 	return 0;
+
 }
+
