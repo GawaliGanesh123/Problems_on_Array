@@ -4,6 +4,9 @@ Input - 10 15 33 40 83
 Output- 3
 
 */
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
 
 #include<Stdio.h>
 
@@ -21,6 +24,8 @@ void CountOddNum(int Data[], int iSize)
 	}
 	  printf("Count of Odd Number:%d\n",iOdd);
 }
+
+
 
 int main()
 {
@@ -41,4 +46,5 @@ int main()
     CountOddNum(Arr,5);
 
 	return 0;
+
 }
