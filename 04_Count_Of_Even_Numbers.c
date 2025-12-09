@@ -4,6 +4,9 @@ Input - 10 15 33 40 83
 Output- 2
 
 */
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
 
 #include<Stdio.h>
 
@@ -21,6 +24,7 @@ void CountEvenNum(int Data[], int iSize)
 	}
 	  printf("Count of 'even Number:%d\n",iEven);
 }
+
 
 int main()
 {
@@ -41,4 +45,5 @@ int main()
     CountEvenNum(Arr,5);
 
 	return 0;
+
 }
