@@ -5,7 +5,7 @@ Input- 10 20 30 40 50
      Number:30
      
 Output- 30 is occured in the array
-
+ 
 
 Input- 11 21 31 41 51
      Number:25
@@ -78,3 +78,4 @@ int main()
     return 0;
 
 }
+
