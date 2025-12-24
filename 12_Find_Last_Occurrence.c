@@ -20,7 +20,7 @@ Output- There is no 25 in the array
 #include<stdlib.h>
 #include<stdbool.h>
 
- 
+  
 int CheckLastOccurance(int Arr[], int iSize, int iNo)
 {
     int iCnt =0;
@@ -78,6 +78,7 @@ int main()
     return 0;
 
 }
+
 
 
 
