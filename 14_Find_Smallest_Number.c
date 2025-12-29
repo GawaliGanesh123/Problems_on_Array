@@ -4,7 +4,7 @@
 Input- 35 40 50 30 45
 Output- Minimum number is : 30
 
- 
+  
 Input- 31 21 11 51 41 
 Output- Minimum number is : 11
 
@@ -54,5 +54,6 @@ int main()
     return 0;
 
 }
+
 
 
