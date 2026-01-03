@@ -13,7 +13,7 @@ Output- Second Minimum number is : 21
 
 #include<stdio.h>
 #include<stdlib.h>
-
+ 
 int Second_Min(int arr[], int n)
 {
     if(n < 2)
@@ -74,4 +74,5 @@ int main()
 
     return 0;
 }
+
 
