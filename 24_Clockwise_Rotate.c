@@ -1,6 +1,4 @@
-/* Write a program that accepts n numbers from the user, stores them in an array,
-   and rotates the array clockwise k times.
-
+/* Write a program that accepts n numbers from the user, stores them in an array, and rotates the array clockwise k times.
 
 Input: 1 2 3 4 5
        k = 2
@@ -8,7 +6,7 @@ Input: 1 2 3 4 5
 Output: Array after 2 clockwise rotations: 4 5 1 2 3
 
 */
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
 #include<stdio.h>
@@ -72,3 +70,4 @@ int main()
 
     return 0;
 }
+
