@@ -9,7 +9,6 @@ Output: Array after 2 anticlockwise rotations: 3 4 5 1 2
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
-
 #include<stdio.h>
 #include<stdlib.h>
 
@@ -68,4 +67,5 @@ int main()
 
     return 0;
 }
+
 
