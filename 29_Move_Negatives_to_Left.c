@@ -7,7 +7,7 @@ Output: -2 -4 -6 1 3 5
 
  
 #include<stdio.h>
-#include<stdlib.h>
+#include<stdlib.h> 
 
 void MoveNegativeLeft(int Arr[], int iSize)
 {
@@ -56,3 +56,4 @@ int main()
     return 0;
 
 }
+
