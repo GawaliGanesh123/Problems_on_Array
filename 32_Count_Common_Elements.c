@@ -15,7 +15,7 @@ Output: 0
  
 
 #include<stdio.h>
-
+ 
 int CountCommon(int Arr1[], int iSize1, int Arr2[], int iSize2)
 {
     int i = 0, j = 0;
@@ -51,4 +51,5 @@ int main()
     return 0;
 
 }
+
 
