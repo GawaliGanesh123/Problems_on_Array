@@ -1,5 +1,4 @@
-/* Write a program to find difference of two arrays (A - B)
-   (Print the elements of Array1 that are not present in Array2.)
+/* Write a program to find difference of two arrays (A - B) (Print the elements of Array1 that are not present in Array2.)
 
 Array 1: 1 2 3 4 5
 Array 2: 3 4 6
@@ -12,7 +11,7 @@ Array 2: 20 50
 Output: 10 30 40
 
 */
-///////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
 #include<stdio.h>
@@ -54,4 +53,5 @@ int main()
     FindDifference(Arr1, iLength1, Arr2, iLength2);
 
     return 0;
+
 }
