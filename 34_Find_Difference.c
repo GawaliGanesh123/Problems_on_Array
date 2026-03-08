@@ -16,7 +16,7 @@ Output: 10 30 40
 
 #include<stdio.h>
 
-void FindDifference(int Arr1[], int iSize1, int Arr2[], int iSize2)
+void FindDifference(int Arr1[], int iSize1, int Arr2[], int iSize2) 
 {
     int i = 0, j = 0;
     int flag = 0;
@@ -55,3 +55,4 @@ int main()
     return 0;
 
 }
+
