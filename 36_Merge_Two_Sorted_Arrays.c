@@ -6,7 +6,7 @@ Input:  Array 1: 10 20 30
 Output: 10 15 20 25 30 35
 
 Input:  Array 1: 1 3 5 7
-        Array 2: 2 4 6 8
+        Array 2: 2 4 6 8 
 
 Output:  1 2 3 4 5 6 7 8
 */
@@ -76,3 +76,4 @@ int main()
     return 0;
 
 }
+
