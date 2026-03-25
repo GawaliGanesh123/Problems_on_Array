@@ -5,7 +5,7 @@ Input: Array: 16 17 4 3 5 2
 Output: 17 5 2
 
 Input: Array: 10 4 2 1
- 
+  
 Output: 10 4 2 1
 
 */
