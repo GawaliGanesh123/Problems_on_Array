@@ -6,7 +6,7 @@ Output: Majority element is 2
 
 
 Input: Array: 1 2 3 4 5
-
+ 
 Output: No majority element 
 
 */
