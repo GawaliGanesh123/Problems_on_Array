@@ -1,7 +1,7 @@
 /* Write a program to find the majority element in an array. (Element that appears more than n/2 times)
 
 Input: Array: 2 2 1 1 2 2 2
-
+ 
 Output: Majority element is 2 
 
 
