@@ -5,7 +5,7 @@ Input: Array: 2 2 1 1 2 2 2
 Output: Majority element is 2 
 
 
-Input: Array: 1 2 3 4 5
+Input: Array: 1 2 3 4 5 
  
 Output: No majority element 
 
